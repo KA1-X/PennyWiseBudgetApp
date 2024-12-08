@@ -2,11 +2,7 @@
 
 ## Project Description
 
-**PennyWiseBudgetApp** is a financial tracking application built using **SwiftUI** and **Realm**. The app provides a user-friendly interface for monitoring your finances, allowing you to view the distribution of your expenses across categories and track individual spending.
-
-## Demo
-
-![Demo](ExpenseDemo.gif)
+**PennyWiseBudgetApp** is a financial tracking application. The app provides a user-friendly interface for monitoring your finances, allowing you to view the distribution of your expenses across categories and track individual spending.
 
 ## Features
 
@@ -19,11 +15,6 @@
 - **Expense Logs**: The second screen lists all recorded expenses, sorted by date.
 - **Add New Expense**: You can add new expense entries, specifying the category, amount, and date.
 
-## Technologies
-
-- **SwiftUI**: Used for building the app’s user interface.
-- **Realm**: A lightweight database used for storing information about expenses and their categories.
-
 
 ## How to Use
 
@@ -34,4 +25,3 @@
 2. **View and Add Expenses**:
    - Navigate to the logs screen to view a list of all your expenses.
    - Tap the button to add a new expense, fill in the required details, and save the entry.
-
