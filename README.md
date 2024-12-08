@@ -24,27 +24,6 @@
 - **SwiftUI**: Used for building the app’s user interface.
 - **Realm**: A lightweight database used for storing information about expenses and their categories.
 
-## Installation
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/ExpenseTrackerApp.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd ExpenseTrackerApp
-   ```
-
-3. Open the project in Xcode:
-
-   ```bash
-   open ExpenseTrackerApp.xcodeproj
-   ```
-   
-4. Run the project on a simulator or a connected device.
 
 ## How to Use
 
