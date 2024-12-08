@@ -1,8 +1,8 @@
-# PennyWiseBudgetApp
+# ExpenseTrackerApp
 
 ## Project Description
 
-**PennyWiseBudgetApp** is a financial tracking application built using **SwiftUI** and **Realm**. The app provides a user-friendly interface for monitoring your finances, allowing you to view the distribution of your expenses across categories and track individual spending.
+**ExpenseTrackerApp** is a financial tracking application built using **SwiftUI** and **Realm**. The app provides a user-friendly interface for monitoring your finances, allowing you to view the distribution of your expenses across categories and track individual spending.
 
 ## Demo
 
